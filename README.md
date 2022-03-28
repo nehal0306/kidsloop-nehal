@@ -25,3 +25,7 @@ Then run the gdb(debugger for linux):
 - gdb> quit (to quit the debugger)
 
 You'll see the exact line and error where the issue occured.
+
+## Deploy to AWS Container
+
+I haven't added the AWS Container details, to deploy it, please edit the **aws.yml** file and add the credentials of the container.
